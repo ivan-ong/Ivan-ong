@@ -14,8 +14,8 @@ Welcome to my GitHub! I’m a **Data Analyst/Engineer** with 5+ years of experie
 ## 🛠️ Skills
 
 ### 👷🏻‍♂️ Data Engineering  
-- **Languages**: Python, SQL, Java  
-- **Tools**: Apache Spark, Airflow, Kafka  
+- **Languages**: Python, SQL
+- **Tools**: Apache Spark, Airflow
 - **Cloud Platforms**: AWS, GCP  
 
 ### 👨🏻‍💻 Data Analytics  

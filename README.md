@@ -1,44 +1,31 @@
-## 👋🏻 Hi, I'm Ivan!
+# 👋🏻 Hi, I'm Ivan!
 
-Welcome to my GitHub! I’m a **Data Analyst/Engineer** with 5+ years of experience, specializing in data mining, presenting data-driven insights and building scalable data solutions on the cloud. I hold a MSc in Analytics and a BSc in Banking & Finance.
+Welcome to my GitHub! I’m a Data Engineer with 5+ years of experience across fintech and proptech, building reliable, scalable data platforms and delivering insights that drive business value. I hold an MSc in Analytics and a BSc in Banking & Finance, and I enjoy turning messy, complex data into actionable solutions.
 
-### 💫 About Me
+## 💫 About Me
+- 🏢 Currently a Data Engineer @ JLL Technologies, working with real estate data on the Google Cloud Platform
+- 📈 Former AVP, Data Analyst @ HSBC, where I built customer segmentation models and supported campaign analytics
+- ☁️ Interested in modern data stacks, data governance, and scalable infrastructure-as-code
+- ✍🏻 I write about data engineering, analytics, and career tips on my [Substack](https://your-substack-link)
+- 📸 On the side, I’m prototyping an AI-powered food tracking app using LLM APIs and computer vision
 
-• 🏢 Currently a Data Engineer @ JLL Technologies / Google  
-• 📊 AVP Data Analyst @ HSBC from 2019  
-• 🌱 Exploring and learning advanced topics in Cloud Computing and AI/ML pipelines  
-• ✍🏻 I share insights on Data Science and Engineering on my [Substack](#)  
+## 🛠️ Skills & Tech Stack
 
+### ⚙️ Data Engineering
+- **Languages:** Python, SQL
+- **Big Data:** Apache Spark, PySpark
+- **Orchestration:** Airflow (DAGs), Terraform (IaC)
+- **Pipelines & Modeling:** ETL/ELT, dbt (familiar), Dimensional Modeling
+- **Platforms:** GCP (BigQuery, GCS), AWS (Redshift, S3)
+- **DevOps:** Docker, Git, GitHub Actions
 
-
-## 🛠️ Skills
-
-### 👷🏻‍♂️ Data Engineering  
-- **Languages**: Python, SQL
-- **Tools**: Apache Spark, Airflow
-- **Cloud Platforms**: AWS, GCP  
-
-### 👨🏻‍💻 Data Analytics  
-- **Analytics**: Pandas, NumPy  
-- **Visualization**: Tableau, Power BI  
-
+### 📊 Analytics & Reporting
+- **Libraries:** Pandas, NumPy, Scikit-learn (basic)
+- **Dashboards:** Power BI, Tableau
+- **Use Cases:** Customer segmentation, portfolio dashboards, campaign analysis
 
 ## 📬 Let's Connect!
 
-- 📧 Email: ivanongwc@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivanongwc/)
-
-<!--
-**ivan-ong/Ivan-ong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [ivanongwc@gmail.com](mailto:ivanongwc@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📰 [Substack](https://your-substack-link) (Coming soon!)

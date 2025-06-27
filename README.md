@@ -15,14 +15,14 @@ Welcome to my GitHub! I’m a Data Engineer with 5+ years of experience across f
 - **Languages:** Python, SQL
 - **Big Data:** Apache Spark, PySpark
 - **Orchestration:** Airflow (DAGs), Terraform (IaC)
-- **Pipelines & Modeling:** ETL/ELT, dbt (familiar), Dimensional Modeling
-- **Platforms:** GCP (BigQuery, GCS), AWS (Redshift, S3)
+- **Pipelines & Modeling:** ETL/ELT, Dimensional Modeling
+- **Platforms:** GCP (BigQuery, GCS)
 - **DevOps:** Docker, Git, GitHub Actions
 
 ### 📊 Analytics & Reporting
-- **Libraries:** Pandas, NumPy, Scikit-learn (basic)
-- **Dashboards:** Power BI, Tableau
-- **Use Cases:** Customer segmentation, portfolio dashboards, campaign analysis
+- **Libraries:** Pandas, NumPy, Scikit-learn 
+- **Dashboards:** Tableau, Qlik Sense
+- **Use Cases:** Customer segmentation, Portfolio dashboards, Campaign analysis
 
 ## 📬 Let's Connect!
 

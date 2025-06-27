@@ -3,8 +3,8 @@
 Welcome to my GitHub! I’m a Data Engineer with 5+ years of experience across fintech and real estate, building reliable, scalable data platforms and delivering insights that drive business value. I hold an MSc in Analytics and a BSc in Banking & Finance, and I enjoy turning messy, complex data into actionable solutions.
 
 ## 💫 About Me
-- ☁️ Currently a Data Engineer @ JLL Technologies, working with real estate data on the Google Cloud Platform
-- 🏢 Former AVP, Data Analyst @ HSBC, where I built predictive models, customer segmentation models and supported data analytics
+- 👨🏻‍🏭 Currently a Data Engineer @ JLL Technologies, working with real estate data on the Google Cloud Platform
+- 🏦 Former AVP, Data Analyst @ HSBC, where I built predictive models, customer segmentation models and supported data analytics
 - ☁️ Interested in modern data stacks, data governance, and scalable infrastructure-as-code
 - ✍🏻 I write about data engineering, analytics, and career tips on my [Substack](https://your-substack-link) (WIP)
 - 📸 On the side, I’m prototyping an AI-powered food tracking app using LLM APIs and computer vision

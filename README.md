@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Ivan!
+# Hi, I'm Ivan! 👋🏻
 
 Welcome to my GitHub! I’m a Data Engineer with 5+ years of experience across fintech and real estate, building reliable, scalable data platforms and delivering insights that drive business value. I hold an MSc in Analytics and a BSc in Banking & Finance, and I enjoy turning messy, complex data into actionable solutions.
 

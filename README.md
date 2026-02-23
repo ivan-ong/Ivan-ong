@@ -22,6 +22,3 @@
 - Databricks — technical advisor to engineering teams building serious data and AI infrastructure.
 - JLL Technologies — owned the analytics platform end-to-end, from raw ingestion to BigQuery.
 - HSBC — shipped ML models into production in a bank. You know how hard that is.
-
----
-💼 [LinkedIn](https://linkedin.com/in/ivanongwc) · ✉️ ivanongwc@gmail.com

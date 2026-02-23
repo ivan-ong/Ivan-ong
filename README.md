@@ -1,31 +1,12 @@
-# Hi, I'm Ivan! 👋🏻
+# Ivan Ong
 
-Welcome to my GitHub! I’m a Data Engineer with 5+ years of experience across fintech and real estate, building reliable, scalable data platforms and delivering insights that drive business value. I hold an MSc in Analytics and a BSc in Banking & Finance, and I enjoy turning messy, complex data into actionable solutions.
+Data Engineer at JLL Technologies. Before that, AVP Data Analyst at HSBC.
 
-## 💫 About Me
-- 👷🏻‍♂️ Currently a Data Engineer @ JLL Technologies, working with real estate data on the Google Cloud Platform
-- 🏦 Former AVP, Data Analyst @ HSBC, where I built predictive models, customer segmentation models and supported data analytics
-- ☁️ Interested in modern data stacks, data governance, and scalable infrastructure-as-code
-- ✍🏻 I write about data engineering, analytics, and career tips on my [Substack](https://your-substack-link) (WIP)
-- 📸 On the side, I’m prototyping an AI-powered food tracking app using LLM APIs and computer vision
+I build data pipelines and platforms — mostly on GCP with Python, SQL, Spark, and Airflow.
+Currently prototyping an AI-powered food tracking app with LLMs and computer vision.
 
-## 🛠️ Skills & Tech Stack
+**Stack:** Python · SQL · PySpark · Airflow · Terraform · BigQuery · dbt · Docker · GitHub Actions
 
-### ⚙️ Data Engineering
-- **Languages:** Python, SQL
-- **Big Data:** Apache Spark, PySpark
-- **Orchestration:** Airflow (DAGs), Terraform (IaC)
-- **Pipelines & Modeling:** ETL/ELT, Dimensional Modeling
-- **Platforms:** GCP (BigQuery, GCS)
-- **DevOps:** Docker, Git, GitHub Actions
+---
 
-### 📊 Analytics & Reporting
-- **Libraries:** Pandas, NumPy, Scikit-learn 
-- **Dashboards:** Tableau, Qlik Sense
-- **Use Cases:** Customer segmentation, Portfolio dashboards, Campaign analysis
-
-## 📬 Let's Connect!
-
-- 📧 Email: [ivanongwc@gmail.com](mailto:ivanongwc@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivanongwc)
-- 📰 [Substack](https://your-substack-link) (Coming soon!)
+💼 [LinkedIn](https://linkedin.com/in/ivanongwc) · ✉️ ivanongwc@gmail.com
